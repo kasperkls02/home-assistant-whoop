@@ -1,0 +1,10 @@
+{
+    "domain": "whoop",
+    "name": "Whoop",
+    "codeowners": ["@kasperkls02"],
+    "documentation": "https://github.com/kasperkls02/whoop",
+    "issue_tracker": "https://github.com/kasperkls02/whoop/issues",
+    "iot_class": "cloud_polling",
+    "requirements": ["tzlocal", "whoop"],
+    "version": "0.0.1"
+  }
